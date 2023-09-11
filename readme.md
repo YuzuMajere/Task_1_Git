@@ -8,7 +8,7 @@ LICENSE: [MIT](/license.md)
 
 ### Сожержание:
 1. Что-то
-2. [git add](/add.md)
+2. [git add](/git%20add.md)
 
 ---
 
